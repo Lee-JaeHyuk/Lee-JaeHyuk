@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-Good Day! I am Jaehyuk Lee who is interesred in WEB from South Korea
+Good Day! I am Jaehyuk Lee 
+
+- 🌱 I’m currently learning Spring
+
+Languages and Tools:
 
 
 <!--
