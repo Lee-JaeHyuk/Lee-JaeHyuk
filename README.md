@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaehyuk Lee</h1>
 <h3 align="center" style = "display:inline"> A passionate backend developer from South Korea. </h3>
-<h3 align="center" style = "display:inline"> I’m currently learning ***Spring***, ***Al***,***Algorithm***</h3>
-
-
+<h3 align="center" style = "display:inline"> I’m currently learning Spring, Al ,Algorithm</h3><br>
 
 
   
