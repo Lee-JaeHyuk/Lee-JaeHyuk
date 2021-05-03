@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaehyuk Lee</h1>
 <h3 align="center">A passionate backend developer from South Korea</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lee-jaehyuk" alt="lee-jaehyuk" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **Spring**
 
 
@@ -15,4 +11,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lee-jaehyuk&show_icons=true&locale=en" alt="lee-jaehyuk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lee-jaehyuk&" alt="lee-jaehyuk" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lee-jaehyuk&theme=highcontrast" alt="lee-jaehyuk" /></p>
