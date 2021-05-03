@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Good Day! I am Jaehyuk Lee who is interesred in WEB from South Korea
+
 <!--
 **Lee-JaeHyuk/Lee-JaeHyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
